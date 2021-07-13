@@ -87,7 +87,7 @@ const livros = [
         id:10,
         nome: "A Garota do Lago",
         autor: "Charlie Donlea",
-        categoria: "Supense",
+        categoria: "Suspense",
         paginas: 296,
         recomenda: false,
         leu: false
